@@ -1,6 +1,6 @@
 # Install KrakenSDR DOA from Kraken ARM64 install scripts for Raspberry Pi OS 64 bit
 
-Follow this link to the install script section of the KrakenSDR repo and use the ARM 64 bit instructions. This last worked for Raspberry Pi OS on 5-17-25
+Follow this link to the install script section of the KrakenSDR repo and use the ARM 64 bit instructions. This last worked for Raspberry Pi OS for a Raspberry Pi 5 running Kernel 6.12, debian version 12, May 13 2025 release on 5-17-25
 
 https://github.com/krakenrf/krakensdr_docs/wiki/09.-VirtualBox,-Docker-Images-and-Install-Scripts#install-scripts
 
